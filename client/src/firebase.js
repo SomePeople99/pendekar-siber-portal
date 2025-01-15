@@ -8,11 +8,11 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "pendekar-siber-portal.firebaseapp.com",
-  projectId: "pendekar-siber-portal",
-  storageBucket: "pendekar-siber-portal.appspot.com",
-  messagingSenderId: "788456172128",
-  appId: "1:788456172128:web:ce4b456a3a00b58e953105",
+  authDomain: "cc-crew-46942.firebaseapp.com",
+  projectId: "cc-crew-46942",
+  storageBucket: "cc-crew-46942.firebasestorage.app",
+  messagingSenderId: "546711371184",
+  appId: "1:546711371184:web:892a3ca3482ed2eee16a75",
   measurementId: "G-LT0K58X8GN"
 
   
